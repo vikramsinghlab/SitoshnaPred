@@ -3,7 +3,7 @@ SitoshnaPred is a molecular descriptor guided predictor for identification of Si
 
 # Model generation
 LightGBM algorithm was used to develop a classification model.
-
+We have provided the code and the input file for developing classifier
 # Requirements
 numpy>=1.21.2
 pandas>=1.5.0
