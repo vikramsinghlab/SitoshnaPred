@@ -1,4 +1,4 @@
-# ShitoshnaPred
+# SitoshnaPred
 SitoshnaPred is a molecular descriptor guided predictor for identification of Sita (cold) and Usna (hot) nature of phytochemicals present in Ayurvedic herbs.
 
 # Model generation
